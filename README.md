@@ -1,4 +1,3 @@
 # Algorithm-Python
 
-
-Hello
+Problem solving algorithm with Python 
